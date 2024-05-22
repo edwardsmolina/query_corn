@@ -3,7 +3,7 @@ ASI50D,210,0,0,agro,,
 DOPLN,0,0,182,agro,,calc
 DOPLN_SUB,0,0,185,agro,,calc
 DOPLP,0,0,131,agro,,analytic
-EHT,216,0,0,agro,,
+EHT,216,0,0,agro,,analytic
 EMERG,216,0,27,agro,,
 EVG,0,0,1,agro,,
 FNSC,0,0,2037,agro,,
